@@ -4,3 +4,6 @@ Version3
 Version4
 
 Merge by keepting all lines
+
+
+Make sure the subrepo will not affect the main repo
