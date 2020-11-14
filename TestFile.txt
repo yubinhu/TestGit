@@ -1,3 +1,6 @@
+Test Branch
 Version1
 Version3
 Version4
+
+Merge by keepting all lines
